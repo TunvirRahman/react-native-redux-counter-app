@@ -1,6 +1,6 @@
 # Counter example
 
-Sample Application to better understand how react native works with redux
+This is very simple and easy to understand repository to start learning Redux.
 
 ## Run APP
 
